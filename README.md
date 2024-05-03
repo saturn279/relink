@@ -7,7 +7,7 @@ It works recursively and is designed to be idempotent. Performing multiple tranf
 
 ## Installation
 
-### Method 1: Using the Installation Script
+### Manual
 
 To install `relink`, simply run the following command in your terminal:
 
