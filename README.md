@@ -1,5 +1,9 @@
 # relink
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saturn279/relink/refs/heads/main/img.png" alt="dnfuzz Logo" width="300">
+</p>
+
 Welcome to `relink` - the symbolic link transformer!
 
 `relink` is a lightweight Linux utility designed to streamline the management of symbolic links by converting absolute symbolic links to relative ones within a specified directory. This ensures that your symbolic links remain intact and functional even when the directory structure is moved or shared across different systems.
